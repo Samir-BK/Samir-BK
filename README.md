@@ -42,4 +42,4 @@ Repo: [https://github.com/Albirepo/Junction_2025](https://github.com/Albirepo/Ju
 
 ---
 
-Thank you for visiting my GitHub! Feel free to explore my repositories or reach out for collaboration or opportunities 😊
+Thank you for visiting my GitHub! Feel free to explore my repositories or reach out for collaboration or opportunities!
