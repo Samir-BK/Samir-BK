@@ -9,19 +9,19 @@ Welcome to my GitHub! I'm an IT and Software Development student at **Haaga-Heli
 🚀 About Me
 
 * 🎓 **IT / Software Development Student** at Haaga-Helia UAS
-* 💻 Actively learning **Python, JavaScript, HTML/CSS, Frontend Basics, and Full-Stack Foundations**
+* 💻 Actively learning **Full-Stack Foundations and AI Engineering**
 * 🤝 Participated in **hackathons** and contributed to real-world projects
-* 🎯 Interested in: Web Development, Cloud, Problem-Solving, and ICT Systems
+* 🎯 Interested in: AI Engineering, Software Development, Machine Learning, Data Analytics, Problem-Solving, and ICT Systems
 * 👥 Volunteer / staff member at various **technical events**
-* 🔍 Open to **Part-Time Jobs, Internships, and IT Roles**
+* 🔍 Open to **Internships, and IT Roles**
 
 ---
 
 🛠️ Skills & Tools
 
-* **Languages:** Python, JavaScript
-* **Frontend:** HTML, CSS
-* **Backend:** (Learning) Node.js / API basics
+* **Languages:** JAVA, Python, JavaScript
+* **Frontend:** HTML, CSS, React JS
+* **Backend:** (Learning) Spring Boot / API basics
 * **Cloud & ICT:** Basic understanding
 * **Other:** Git, VS Code, Teamwork, Debugging, UI basics
 
