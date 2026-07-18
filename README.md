@@ -1,33 +1,33 @@
 👋 Hi, I'm Samir B K
 
- Software Development Student | IT Enthusiast | Active Learner
+Software Development Student | IT Enthusiast | Active Learner
 
 Welcome to my GitHub! I'm an IT and Software Development student at **Haaga-Helia University of Applied Sciences**, passionate about building practical solutions, learning new technologies, and contributing to tech communities.
 
 ---
 
-🚀 About Me
+About Me
 
-* 🎓 **IT / Software Development Student** at Haaga-Helia UAS
-* 💻 Actively learning **Full-Stack Foundations and AI Engineering**
-* 🤝 Participated in **hackathons** and contributed to real-world projects
-* 🎯 Interested in: AI Engineering, Software Development, Machine Learning, Data Analytics, Problem-Solving, and ICT Systems
-* 👥 Volunteer / staff member at various **technical events**
-* 🔍 Open to **Internships, and IT Roles**
+* **IT / Software Development Student** at Haaga-Helia UAS
+* Actively learning **Full-Stack Foundations and AI Engineering**
+* Participated in **hackathons** and contributed to real-world projects
+* Interested in: AI Engineering, Software Development, Machine Learning, Data Analytics, Problem-Solving, and ICT Systems
+* Volunteer / staff member at various **technical events**
+* Open to **Internships/ in Software Development, AI Engineer, Data Engineer**
 
 ---
 
-🛠️ Skills & Tools
+Skills & Tools
 
 * **Languages:** JAVA, Python, JavaScript
 * **Frontend:** HTML, CSS, React JS
 * **Backend:** (Learning) Spring Boot / API basics
-* **Cloud & ICT:** Basic understanding
+* **Cloud & Networks:** Basic understanding
 * **Other:** Git, VS Code, Teamwork, Debugging, UI basics
 
 ---
 
-🏆 Hackathon Project
+Hackathon Project
 Habitize – AI-Powered Financial Coach (Junction Hackathon)
 
 Role: Contributor (UI support, prototyping, debugging, feature refinement)
@@ -35,7 +35,7 @@ Tech: Flutter, FastAPI, Firestore, Cloud Run
 Repo: [https://github.com/Albirepo/Junction_2025](https://github.com/Albirepo/Junction_2025)
 
 
-📫 Contact Me
+Contact Me
 
 * **LinkedIn:** [https://linkedin.com/in/samirbk](https://linkedin.com/in/samirbk)
 * **GitHub:** [https://github.com/Samir-BK](https://github.com/Samir-BK)
