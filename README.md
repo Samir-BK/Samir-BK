@@ -13,7 +13,7 @@ About Me
 * Participated in **hackathons** and contributed to real-world projects
 * Interested in: AI Engineering, Software Development, Machine Learning, Data Analytics, Problem-Solving, and ICT Systems
 * Volunteer / staff member at various **technical events**
-* Open to **Internships/ in Software Development, AI Engineer, Data Engineer**
+* Open to **Internships/ in Software Development, AI Engineer, AI/ML, Data Science, Data Engineer**
 
 ---
 
