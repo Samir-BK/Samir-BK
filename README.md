@@ -17,13 +17,13 @@ About Me
 
 ---
 
-Skills & Tools
+## Skills & Tools
 
-* **Languages:** JAVA, Python, JavaScript
-* **Frontend:** HTML, CSS, React JS
-* **Backend:** (Learning) Spring Boot / API basics
-* **Cloud & Networks:** Basic understanding
-* **Other:** Git, VS Code, Teamwork, Debugging, UI basics
+- **AI & Dev Tools:** Cursor, Groq API, LLM prompting & evaluation, Git/GitHub, Docker, VS Code, IntelliJ
+- **Languages:** Python, Java, JavaScript/TypeScript, SQL, HTML/CSS
+- **Frameworks:** Flask, Streamlit, Spring Boot, React
+- **Libraries & ML:** pandas, NumPy, scikit-learn
+- **Databases & Deployment:** PostgreSQL, Streamlit Cloud, Render, GitHub
 
 ---
 
