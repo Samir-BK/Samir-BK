@@ -29,6 +29,7 @@ Skills & Tools
 
 Check out my Pinned Projects!!!
 
+---
 
 Contact Me
 
