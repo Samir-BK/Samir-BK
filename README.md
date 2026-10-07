@@ -27,12 +27,7 @@ Skills & Tools
 
 ---
 
-Hackathon Project
-Habitize – AI-Powered Financial Coach (Junction Hackathon)
-
-Role: Contributor (UI support, prototyping, debugging, feature refinement)
-Tech: Flutter, FastAPI, Firestore, Cloud Run
-Repo: [https://github.com/Albirepo/Junction_2025](https://github.com/Albirepo/Junction_2025)
+Check out my Pinned Projects!!!
 
 
 Contact Me
