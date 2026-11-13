@@ -30,7 +30,7 @@ I'm a **software development student and hands-on builder** interested in the in
 
 | Project | What I built / explored | Focus |
 | :--- | :--- | :--- |
-| 🏋️ **Personal Trainer App** | A full-stack personal training application, bringing together the frontend and backend of a complete web app. | Full-stack development |
+| 🏋️ **[Personal Trainer App](https://github.com/Samir-BK/Personal-Trainer.git)** | A full-stack personal training application, bringing together the frontend and backend of a complete web app. | Full-stack development |
 | 🔎 **[CreatorScout](https://github.com/Samir-BK/CreatorScout)** | Discovers and scores regional gaming micro-influencers across platforms with multilingual search, LLM-based relevance scoring, and CSV export. | Python · LLMs · Data |
 | 📝 **[Text Summarizer App](https://github.com/Samir-BK/Text-Summarizer-App)** | Summarizes text and dialogue using a fine-tuned T5 transformer, exposed through a FastAPI application. | FastAPI · Hugging Face · NLP |
 | 📬 **[MailBrief](https://github.com/Samir-BK/MailBrief)** | An AI email assistant for answering questions and summarizing emails. | Flask · Groq API · LLMs |
@@ -75,15 +75,6 @@ I'm a **software development student and hands-on builder** interested in the in
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
-
-## 📈 GitHub activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Samir-BK&show_icons=true&theme=tokyonight&hide_border=true" alt="Samir's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-BK&layout=compact&theme=tokyonight&hide_border=true" alt="Languages used in Samir's public repositories" />
-</div>
-
-> These third-party cards depend on external services and may occasionally fail to load. Language statistics reflect repository code, not proficiency.
 
 ## 🤝 Let's connect
 
